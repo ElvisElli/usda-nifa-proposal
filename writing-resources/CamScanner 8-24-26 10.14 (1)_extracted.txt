@@ -1,0 +1,417 @@
+
+--- PAGE 1 ---
+mmend 7
+A ts you mtyou Icrease Teviewer friendliness by emphasizing key words that iden-
+which words to €mphasi reviewers will need to find to review your proposal. We will tell you
+derlining) ig the key: ook later in this chapter. Judicious use of subtle emphasis (italics and un-
+8ravation to Teviewers STuse causes such emphasis to lose its effect and can even become an ag-
+
+EXPAN
+SION OF YOUR BULLETED OUTLINE INTO SENTENCES
+
+Once you are satisfied with
+t
+your first ith the bulle
+
+ted outline you created, the next step is to expand it into
+Of the Overview subs ; Ee .
+
+ection.
+Introductory Paragraph
+
+Opening Sentence, Expand the bullet that you wrote for your opening sentence. Make sure that
+
+it reads well and flows easily into the presentation of what is currently known. As described in
+the previous chapter, make Sure it contains a “hook,” an indication of the proposal topic, and
+some conceptual linkage to the RFA or program you’re targeting. Make sure that the sentence is
+arresting and, as such, will immediately attract the reviewer’s interest and attention.
+
+Current Knowledge. Working from the bullets that reflect current knowledge, write 3 to 5 com-
+plete sentences that convey what is known about your subject area. This series of sentences
+should quickly and concisely convey what the scientific landscape is about the specific puzzle or
+problem you are addressing in this proposal. To craft these sentences, consider the following
+questions: What do we already know, or what is already suggested about this puzzle? What have
+others established? In trying to address or solve the problem, what has already been tried; what
+worked, what didn’t, or what did but only partially? Remember that your own data can count as
+current knowledge. Cite only the most important references. Here are a few tips for determining
+whether the reference would be considered a key reference. First, if the sentence would be fol-
+lowed by two or more citations, then consider that it is generally known. Second, if the sentence
+would not be believed without citation, include the Citation. Third, if the work is from your own
+group, include the citation especially if you are a young investigator.
+
+; owledge Base/Lack of Something. Next, expand the bullet that you wrote to delin-
+Gap pape iat aowiedae base or the lack of something that will drive the application.
+eate a at works well here is for the first part of the statement to provide a quick summary of
+oe ent knowns” you just explained, with the second part of the statement providing the spe-
+ie
+
+cific gap or unknown. For example:
+
+“while these findings collectively suggest X, Y remains unknown/unspecified.”
+ge «AJthough these studies have provided a general sense of X, there is a knowledge gap re-
+¥° a a rf e precise mechanisms by vies Y occurs.”
+ar ‘i t lated to Y becau: ins unsub-
+: has facilitated X but has not trans lo ause Z remains un:
+X. “This knowledge
+
+stantiated.”
+
+Consequences of Not Meeting the Need. These bullets should be expanded
+Statement of: ‘Need The first will frame the need, which will of course be related to the gap in
+a
+
+into two sentences- ;
+
+--- PAGE 2 ---
+knowledge (or lack of something). For the first sentence, state clearly that there is an urgent or
+
+ie need. "There is, therefore, a critical need to..." Note that “critical need” is underlined
+and italicized. If publications of other investigators are used to support existence of the need, cite
+
+that work. Next expand the bullet on why the continued existence of that need is a problem rele-
+vant to the USDA.
+
+Be Sure that your potential consequences statement is congruent with the USDA’s own descrip-
+tion of their Priorities. You can use key concepts or words from the RFA description and/or the
+Program priority description to craft this sentence. For example, imagine you are an investigator
+focused on improvements to the ventilation in swine housing for gestating sows. You might be
+submitting a proposal in response to the AFRI Foundational RFA for FY 2021 and FY2022. Spe-
+Cifically, your work falls under Program Area Priority Code A1251: “Welfare and Well-being of
+Agricultural Animals.” In the RFA, part of the description for this Program Priority reads:
+
+“Evaluation of current animal agriculture production practices and/or development of new or
+enhanced management approaches that safeguard both animal welfare and sustainable
+production efficiency, including, but not limited to:
+
+¢ Alternatives or improvements for painful management procedures; euthanasia and
+slaughter methods to decrease pain and distress; handling and transportation to decrease
+injury and distress (including heat stress)”
+
+Using the concept of heat stress from the priority description, you could craft a potential conse-
+quences statement along these lines:
+
+“Without this knowledge, the development of ventilation standards for gestating sows in group
+pens will remain impossible, risking harmful heat stress for sows, and suboptimal swine perfor-
+mance for producers.”
+
+What, Why, Who Paragraph
+
+Long-Term Goal. Expand the bullet for your long-term research goal. It should clearly encom-
+pass the gap or unmet need that was delineated in the first paragraph. Do so by completing the
+following: “Our [My] long-term goal is to ....” Note that the words “long-term goal have been
+underlined and italicized to make them easier for reviewers to find. Note, also, that there is a hy-
+phen between “long” and “term.” It is required because those two words created a compound ad-
+
+jective that modifies “goal.”
+
+This is another place that you can potentially incorporate key concepts or words from the RFA or
+
+rogram description. For example, the following long-term goal statement echoes key concepts
+fon the Program Priority description for A1201: Animal Breeding and Functional Annotation of
+Genomes in the FY 2021-2022 AFRI Foundational RFA:
+
+“Qur long-term goal is to directly inform the development of national breeding strategies to re-
+duce abiotic stresses related to X in the context of Y.”
+
+67
+
+--- PAGE 3 ---
+In this case, the s j
+duce abiotic stp 4 goal with A1201 is “devel
+
+€sses,” and x and
+
+Overall Objective, Now, €xpand the
+tence that Conveys what You want to
+
+opment of national breeding strategies to re-
+encapsulate your niche area,
+
+ae You wrote for the overall objective into a anal sen-
+write here ]j ._ © Produce with this research roject. Make sure that what you
+first ee hepa ae 8ap in the knowledge base or Shiny nce that you presented in the
+need. Label this sentedicg ie any grant application must be to either fill that gap or meet that
+Plication is to.» < °Y Deginning it with something like, “The overall objective of this ap-
+“2, Cxample: “The overall ob lective of this application is to determine which struc-
+allow it to function in the bovine IFN-y receptor complex.”
+
+7 overall objective, Temember to avoid indeterminate verbs such as “to study,” or
+> OF “to examine.” Instead, try answering the question of “why.” Why are you ex-
+'Y are you comparing A and B? Usually, the answer is that you are trying to deter-
+
+mine, identify, establish, or confirm Something. Try using those words in your objective instead.
+For example:
+
+¢ “Our overall objective is to identify barriers to utilization of insect protection netting
+among producers of crop X.”
+“Our overall objective is to establish the cost effectiveness of strategy X for doing Y.”
+° “Our overall objective is to determine the Processing conditions that will optimize A.”
+
+When you have completed this sentence, make certain that it links back to the gap/lack and state-
+ment of need components and that it relates clearly to your long-term goal.
+
+Central Hypothesis and How Formulated. This component will be included if you are writing
+either a hypothesis-driven application or a “hybrid” — one that has both hypothesis-containing
+and need-driven aims. The expanded bullet should Convey your overarching prediction regarding
+how the overall objective will be attained. Ideally, it should have readily identifiable Parts that
+will be used to set up the specific objectives/aims. Be certain that what you have Proposed is test-
+able, and does not contain conditional words like might, may, likely, or can. Additionally, make
+sure that you label this component so that it can be found easily by reviewers.
+
+For example, “The central hypothesis for the proposed research is that function of the B chain in
+the bovine receptor complex is dependent on association of its omega helix with a complemen-
+tary structure on the a chain, resulting in the creation of a functional receptor.”
+
+le might be, “Our central hypothesis is that a user-friendly, smartphone-based in-
+poole Se icaeninit system will decrease overall water usage and fertilizer runoff, while
+tegra'
+
+improving crop yields and costs.”
+
+b
+
+68
+
+--- PAGE 4 ---
+TIP: The first 3 components in this paragraph create a fo-
+cusing progression, which the reviewer must perceive. To
+help ensure that they make that connection, the long-term
+goal, overall objective, and central hypothesis should be pre-
+sented without interposed explanatory information. These
+three components should be juxtaposed, so that there is a
+seamless flow of logic from the broadest (the long-term
+goal) to the narrowest focus (the central hypothesis).
+
+Follow the statement of your central hypothesis with another sentence that expands the bullet
+that you wrote to describe how your hypothesis was formulated, i.e., why it represents the most
+attractive avenue of research to pursue first. Remember that this is the second place that you can
+incorporate your earlier findings into the overall argument or story. For example, “We have for-
+mulated this hypothesis based on strong preliminary findings, which suggest that .” If the
+
+work of others is used in addition to your own preliminary data to support formulation of your
+central hypothesis, the relevant publications should be cited. Other examples:
+
+e “This hypothesis is grounded in our preliminary data indicating Q.”
+
+¢ “This hypothesis is based on our prior data suggesting X, which echoes and extends that
+of Archer and Katzenberg (2019).”
+
+Now write your own central hypothesis, then expand the bullet(s) that you wrote to describe how
+your hypothesis was formulated, i.e., why it has been chosen as your “best bet.”
+
+Well-Prepared and Research Environment. Next, using the bullets that you wrote earlier, write
+1 to 2 complete sentences that summarize why you and your colleagues have the competitive
+edge in this area of research. Remember that if no one feature makes your program stand out,
+you will want to emphasize the constellation of your research team’s strengths. This statement
+also helps meet the statement in most USDA application instructions to describe, where applica-
+ble, in the Introduction, “reasons for performing the work at the proposed institution.”
+
+Regardless of what you write here, you must be very careful how you construct this component.
+The last thing that you want to do is inadvertently convey that you are overly impressed with
+your own credentials/accomplishments. An acceptable set of sentences might be something like,
+“We are particularly well prepared to undertake the proposed research because our team consists
+of a protein chemist, a membrane biophysicist, and a molecular biologist, each with long-stand-
+ing research interests in signaling by bovine IFN-y, Additionally, we have unique access to a re-
+search herd of susceptible cattle and equipment X, making our environment especially conducive
+
+to successful completion of the proposed research.” Now, write your comparable sentence(s) in
+your draft document.
+
+Specific Objectives “Paragraph”
+
+Begin paragraph three with a sentence something like, “We Propose [two/three] specific objec-
+tives:” For integrated projects, you can also harness this sentence to remind the reader that the
+
+69
+
+--- PAGE 5 ---
+integra €d; for e «
+[two/ three] inj “ample, “We plan ‘0 achieve our overall objective with the following
+
+. ated r 2
+alms and the Workin scarch and extension aims.” Next, expand the bullets for your specific
+
+'8 hypothes} :
+back toa Part of your cena nach After doing so, make Certain that each clearly links
+
+inate Paragraphs should be bolded or otherwise highlighted, except for
+ibed for the hypothesis-containing Specific objectives,
+For the extension- or educat;
+Ey ation-related specific object; i
+plan to do. As hentoneihce pecitic objectives, have a bolded headline of what you
+
+0. Ore, these aims can be more task-oriented but try to focus on what
+you plan to accomplish by the activiti ; : af
+
+© production.” This type of specific objective
+you plan to do it (e.g., conduct seminars for
+producer boards, Or create the displays featuring A and B). This indication of the methods or ap-
+
+Payoff Paragraph
+
+Innovation/Creativity/Originality, Ifyou have written a bullet that describes why your re-
+search/approach is innovative, expand it into a sentence that will open Paragraph four. If you
+have a credible claim to innovation, be direct about it. Remember to create as much contrast as
+possible between the “status quo” and what You are proposing to do. For example, “The pro-
+posed project is innovative because in doing/considering/addressing X, it departs from the status
+quo, which typically only involves Y.”
+
+RFA instructions (¢.g., AFRI Foundational, and Sustainable Agricultural
+See) ae ee of novelty/originality be placed in Rationale & Significance!
+ystems),
+
+A expanding the bullets that present your expected outcomes and
+Expected Outcomes. a ttoe Ns hed an “innovation” sentence to open this paragraph, you
+why they are important. Zs expectations by using a segue, such as: “This approach is expected
+might begin presenting ed omes: identification of X, confirmation of Y...” Alternatively, if you
+to yield the following oul a about innovation, begin the fourth Paragraph with a sentence some-
+didn’t open iors deaoiate n of these studies, our expectation is to have identified X, confirmed
+thing like: “At the
+
+eee .
+aragraph and your Overview by expanding the bullets that
+Positive Impact. Cop oe eee that your research will have. It rath similar to
+uu wrote to summari Jlectively establishing how structure of the B protein dictates its role in
+oe thing like, “By © by the bovine IFN-y receptor complex, these outcomes are intended to
+etpsmembrane a ieee qrsiselce and thus have a positive impact on bovine health and well-
+trans yharmaco!
+
+70
+
+--- PAGE 6 ---
+being.”
+
+Wh en crafting the positive impact statement, choose your words carefully. Avoid saying that you
+hope” or “believe” that your results will have a positive impact, or that your findings “should”
+have 4 positive effect. At the same time, avoid too many instances of “will,” which can be per-
+relved as being overly confident or over-promising, Instead, choose words that convey reasona-
+ble confidence, e. g., “We anticipate/intend/project/expect that these results will have a positive
+
+unpact...”
+
+FINALIZING YOUR OVERVIEW SUBSECTION
+
+First Draft of the Overview Part of Your Introduction Section. Revise and refine the sen-
+tences until they flow well. Add material, if needed, to link the sentences appropriately and blend
+them into readable prose. If the compelling flow of logic that you need isn’t there, you may have
+to rewrite the components that don’t work. It may even be necessary to go back to the bulleted
+Outline stage. Whatever it takes, invest the effort until this first, Overview subsection of your In-
+troduction works and accomplishes its purpose. When you are done, you should have approxi-
+mately 1.0 to 1.5 pages. If you have more than that, prune what you have written until you meet
+that mark. Switching to a smaller font and narrowing the margins are not options, because of
+USDA tules for formatting. Taking out open lines between paragraphs to stay within 1.5 pages
+should not be an option, because sacrificing readability will not serve you well.
+
+Concluding Work on the Overview Part of Your Introduction Section. At this point, you
+should have an Overview that succinctly conveys to your reviewers, in a compelling and exciting
+way, what’s known, what’s not known, what you are going to do about it, what your expectations
+are, and why the expected results will be agriculturally important. If you have time, show your
+draft to one or more of your colleagues to determine whether it is as clear and compelling a
+presentation as you think it is. If it still needs work, continue to revise this subsection until you
+are satisfied. Before continuing with the remainder of the proposal, be sure to have your col-
+leagues read this subsection. As discussed in Chapter 20 on the Pre-Submission Review Commit-
+tee, internal peer-review of this Overview is a critical step in creating a competitive application.
+
+LEARNING MILESTONES FOR CHAPTER 7:
+
+1. Understand the iterative nature of expanding the bullets for your Overview subsection
+into complete sentences, and appreciate how their expansion creates a compelling, logical
+argument for the Overview.
+
+2. Recognize the value of labeling these components with underlining and italics as a re-
+viewer-friendly strategy that helps reviewers know precisely why the related information
+has been included.
+
+3. Appreciate how making your specific aims stand out with tabs and bolding serves as a
+visual cue and provides easy recognition by reviewers.
+
+4. Appreciate the importance of citing only key references in this subsection.
+
+71
+
+
+--- PAGE 7 ---
+Example of
+1) a Hypothesis-driven Overview Subsection
+
+This Overvie
+i : iid
+Principal layed an from a USDA/AFRI-funded project is reprinted with the permission of
+gator Dr. Caleb Lemley of Mississippi State University.
+
+MELATO
+Aes DEDIATED REGULATION OF BOVINE PLACENTAL CIRCADIAN
+G COMPROMISED PREGNANCIES
+
+AFRI Competitive Grant, PROJ NO: MIS-339090
+
+INTRODUCTION
+Overview
+
+Proper fetal nutrition Via adequate uteroplacental blood flow is critical to maximize bovine off-
+Spring Production potential while minimizing pregnancy wastage and calf morbidity and mortal-
+ity, which are estimated to cost producers over $1 billion annually (USDA-NASS, 2011). Inade-
+quate maternal nutrition leading to a compromised pregnancy increases calf mortality rate by
+
+10% at or near birth, while an additional 20% of calves die prior to weaning (Corah et al., 1975).
+Common Signs of a compromised pregnancy are decreased uteroplacental blood flow and placen-
+tal nutrient transport, which are both indicators of placental functional capacity (Fowden et al.,
+2006). Recently our team observed circadian rhythms in bovine uterine blood flow and placental
+clock gene expression, which were increased from the early morning to afternoon following die-
+tary melatonin supplementation. While our initial findings are intriguing, the therapeutic poten-
+tial of ameliorating inadequate daytime uterine blood flow with dietary melatonin during a com-
+promised pregnancy remains unknown. Thus, there is a critical need to identify the physiological
+pathways through which melatonin mediates placental rhythms in the context of a compromised
+pregnancy. In the absence of such information, the substantial economic losses of offspring born
+from a suboptimal uteroplacental environment will persist.
+
+Our long-term goal is to increase the efficiency of livestock animal production by identifying
+novel pathways that can be used to improve placental functional capacity during a compromised
+pregnancy. The overall objective for this application is to identify melatonin-induced circadian
+rhythms in placental functional capacity and gene expression in the context of a compromised
+pregnancy. The central hypothesis for the proposed tesearch is that exogenous melatonin during
+the daytime will ameliorate inadequate placental functional capacity by increasing the daytime
+amplitude of placental clock genes during maternal nutrient restriction. This hypothesis was for-
+mulated based on strong preliminary findings, which indicate that dietary melatonin supplemen-
+tation in the morning increased daytime uteroplacental blood flow and placental clock gene ex-
+ssion, while maternal nutrient restriction decreased daytime uterine blood flow compared to
+pre: b a d in adequately fed dams. Our diverse team of investigators is especially well-pre-
+that ¢ 3 conduct the proposed work as it consists of research scientists and veterinarians with a
+ares ie ding collaborative history and expertise in reproductive biology, large animal theri-
+long-stan and ruminant nutrition. Additionally, our research environment is especially condu-
+ogenology, ccessful completion of the work as we have access to the necessary animal han-
+
+ae Ee and large animal surgical suites. We will test the central hypothesis by pursuing
+ing
+
+the following specific objectives:
+
+72
+
+--- PAGE 8 ---
+Specific Objective #1: Identify differences in circadian rhythms in bovine uterine and umb
+cal blood flow in adequately fed and nutrient-restricted dams supplemented with or withou
+dietary melatonin. Our working hypothesis, based on our aforementioned preliminary data
+demonstrating opposite responses in daytime uterine blood flow during maternal nutrient re-
+striction versus melatonin supplementation, is that melatonin supplementation during the day-
+time will mitigate the maternal nutrient restriction-induced decreases in daytime uterine and um-
+bilical blood flow.
+
+Specific Objective #2: Identify differences in circadian rhythms in placental clock gene ex-
+Pression in adequately fed and nutrient-restricted dams supplemented with or without dietary
+melatonin, Our working hypothesis is that the daytime amplitude of placental clock gene expres-
+sion and clock-controlled angiogenic factor expression (e.g., VEGF, COX2) in melatonin supple-
+mented dams will be greater than that observed in dams with compromised pregnancies brought
+about by nutrient restriction. This hypothesis was formulated from our aforementioned prelimi-
+nary data demonstrating an increase in bovine placental clock gene expression following daytime
+melatonin supplementation.
+
+At the conclusion of this research, our expectation is to have identified melatonin as a regulator
+of circadian rhythms in uteroplacental blood flow and placental clock genes. Moreover, we will
+determine the feasibility of an in vitro model for examining 24-hour rhythms in placental func-
+tional capacity, which is more practical for generating larger data sets related to placental circa-
+dian research. These outcomes are expected to have significant positive impacts on maximizing
+ruminant placental efficiency and directly informing the development of superior strategies to
+mitigate wastage of placental functional capacity.
+
+73
