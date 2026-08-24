@@ -55,35 +55,21 @@
    - Access: https://doi.org/10.2134/agronj2010.0301s
    - Status: Full text available
 
-### Climate Change & Drought Projections
-
-8. **Climate Projections for Soybean Production in the US: Water Stress Scenarios**
-   - Hatfield, J.L., et al. (2018). *Climatic Change* 146(3-4): 427-440
-   - Topics: Climate change impacts, water availability projections, regional vulnerability
-   - Access: https://doi.org/10.1007/s10584-017-2117-8
-   - Status: Full text available
-
-9. **Soybean Vulnerability to Climate Change in the Corn Belt**
-   - Siebert, S., et al. (2015). *Global Food Security* 3(3-4): 144-157
-   - Topics: Production risk, water stress frequency, regional differences
-   - Access: https://doi.org/10.1016/j.gfs.2014.10.003
-   - Status: Full text available
-
 ### Crop Modeling & Simulation
 
-10. **Modeling Soybean Water Uptake and Root Development Under Water Stress**
+8. **Modeling Soybean Water Uptake and Root Development Under Water Stress**
     - Sinclair, T.R., & Muchow, R.C. (2001). *Field Crops Research* 72(2): 131-149
     - Topics: Root-water dynamics, stress response functions, model representation
     - Access: https://doi.org/10.1016/S0378-4290(01)00173-0
     - Status: Foundational paper for modeling approach
 
-11. **RZWQM2 Application to Crop-Soil-Water Interactions**
+9. **RZWQM2 Application to Crop-Soil-Water Interactions**
     - Ahuja, L.R., et al. (2011). *Computers and Agriculture* 3(1): 18-35
     - Topics: Process-based modeling, soil water dynamics, crop response functions
     - Access: Research article via agricultural modeling community
     - Status: Key reference for model selection
 
-12. **AquaCrop Model for Soybean: Calibration and Validation**
+10. **AquaCrop Model for Soybean: Calibration and Validation**
     - Hsiao, T.C., et al. (2009). *Agronomy Journal* 101(3): 488-503
     - Topics: Crop model development, water stress functions, calibration approaches
     - Access: https://doi.org/10.2134/agronj2008.0029s
@@ -119,9 +105,9 @@
 | Payero & Irmak (2006) | DOI Link | University | Need access |
 | Kirda et al. (2007) | DOI Link | Institutional | Need access |
 | Irmak et al. (2011) | DOI Link | Repository | Need access |
-| Hatfield et al. (2018) | DOI Link | USDA | Need access |
-| Siebert et al. (2015) | DOI Link | Science Direct | Need access |
 | Sinclair & Muchow (2001) | DOI Link | Institutional | Need access |
+| Ahuja et al. (2011) | Research Community | Modeling Network | Need access |
+| Hsiao et al. (2009) | DOI Link | University | Need access |
 
 ---
 
